@@ -1,4 +1,3 @@
-pjbren's Clumsy Bird
 var BirdEntity = me.Entity.extend({
     init: function(x, y) {
         var settings = {};
